@@ -1,0 +1,2 @@
+coord,weather,base,main,visibility,wind,clouds,dt,sys,timezone,id,name,cod
+"{'lon': -79.4163, 'lat': 43.7001}","[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",stations,"{'temp': 279.08, 'feels_like': 275.16, 'temp_min': 277.55, 'temp_max': 280.65, 'pressure': 1018, 'humidity': 52}",10000,"{'speed': 6.17, 'deg': 200}",{'all': 0},1711642953,"{'type': 2, 'id': 2043365, 'country': 'CA', 'sunrise': 1711623924, 'sunset': 1711669168}",-14400,6167865,Toronto,200
